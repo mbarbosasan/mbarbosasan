@@ -7,6 +7,7 @@
 * **HTML**
 * **CSS**
 * **Orientação a Objetos**
+* **Git e GitHub/GitLab**
 
 #### 🌱 Estou estudando atualmente: 
 
