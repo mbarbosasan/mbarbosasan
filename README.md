@@ -28,7 +28,7 @@
 
 * **Java**
 
-#### 📫 Estou a procura de estágios e/ou e você pode me encontrar por aqui:
+#### 📫 Estou a procura de estágios e você pode me encontrar por aqui:
 
 [LinkedIn](https://www.linkedin.com/in/mbarbosasan/)
 
