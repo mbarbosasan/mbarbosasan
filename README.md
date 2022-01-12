@@ -8,10 +8,10 @@
 * **CSS**
 * **Orientação a Objetos**
 * **Git e GitHub/GitLab**
+* **JavaScript**
 
 #### 🌱 Estou estudando atualmente: 
 
-* **JavaScript**
 * **Java**
 * **Mobile e Desktop First**
 * **Testes unitários com JUnit em Java**
