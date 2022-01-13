@@ -12,15 +12,14 @@
 
 #### 🌱 Estou estudando atualmente: 
 
+* **Banco de Dados**
 * **Java**
 * **Mobile e Desktop First**
-* **Testes unitários com JUnit em Java**
 
 #### 🔭 Próximas tecnologias e conceitos que pretendo estudar
 
 * **React**
 * **SASS**
-* **Banco de Dados Relacionais e Não-relacionais**
 * **Back-end**
 * **Desenvolvimento Mobile com Flutter/Kotlin**
 
