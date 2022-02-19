@@ -9,19 +9,21 @@
 * **Orientação a Objetos**
 * **Git e GitHub/GitLab**
 * **JavaScript**
+* **SASS**
+* **SQL**
 
 #### 🌱 Estou estudando atualmente: 
 
+* **React**
 * **Banco de Dados**
 * **Java**
-* **Mobile e Desktop First**
 
 #### 🔭 Próximas tecnologias e conceitos que pretendo estudar
 
-* **React**
-* **SASS**
+
 * **Back-end**
 * **Desenvolvimento Mobile com Flutter/Kotlin**
+* * **Mobile e Desktop First**
 
 #### 🤔 Preciso de ajuda em:
 
