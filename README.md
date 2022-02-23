@@ -20,10 +20,10 @@
 
 #### 🔭 Próximas tecnologias e conceitos que pretendo estudar
 
-
-* **Back-end**
-* **Desenvolvimento Mobile com Flutter/Kotlin**
-* * **Mobile e Desktop First**
+* **Vue/Angular**
+* **Back-end (Node.js / PHP) **
+* **Desenvolvimento Mobile (Flutter/Kotlin/React Native)**
+* **Mobile e Desktop First**
 
 #### 🤔 Preciso de ajuda em:
 
