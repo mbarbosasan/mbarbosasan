@@ -15,6 +15,7 @@
 #### 🌱 Estou estudando atualmente: 
 
 * **React**
+* **Node.js**
 * **Banco de Dados**
 * **Java**
 
