@@ -34,4 +34,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/mbarbosasan/)
 
-[Email](mailto:moisesbarbosa23@gmail.com) (moisesbarbosa23@gmail.com)
+[Email](mailto:mbarbosasan@gmail.com) (mbarbosasan@gmail.com)
