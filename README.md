@@ -21,10 +21,8 @@
 
 #### 🔭 Próximas tecnologias e conceitos que pretendo estudar
 
-* **Vue/Angular**
-* **Back-end (Node.js / PHP)**
-* **Desenvolvimento Mobile (Flutter/Kotlin/React Native)**
-* **Mobile e Desktop First**
+* **UX/UI**
+* **Back-end (Node.js**
 
 #### 🤔 Preciso de ajuda em:
 
