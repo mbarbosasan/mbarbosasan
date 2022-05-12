@@ -22,11 +22,7 @@
 #### 🔭 Próximas tecnologias e conceitos que pretendo estudar
 
 * **UX/UI**
-* **Back-end (Node.js**
-
-#### 🤔 Preciso de ajuda em:
-
-* **Java**
+* **Back-end (Node.js**;
 
 #### 📫 Estou a procura de estágios e você pode me encontrar por aqui:
 
