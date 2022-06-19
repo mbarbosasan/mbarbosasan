@@ -11,7 +11,6 @@
 * **JavaScript**
 * **SASS**
 * **SQL**
-* 
 
 #### 🌱 Estou estudando atualmente: 
 
@@ -26,6 +25,7 @@
 * **A area de Produto(Product Design, PO)**
 * **Design Thinking**
 * **Futebol (Ceara SC <3)**
+
 [LinkedIn](https://www.linkedin.com/in/mbarbosasan/)
 
 [Email](mailto:mbarbosasan@gmail.com) (mbarbosasan@gmail.com)
