@@ -9,15 +9,17 @@
 * **Orientação a Objetos**
 * **Git e GitHub/GitLab**
 * **JavaScript**
+* **Java**
+* **Spring**
 * **SASS**
 * **SQL**
 
 #### 🌱 Estou estudando atualmente: 
 
-* **React**
-* **Node.js**
 * **Banco de Dados**
 * **Java**
+*  **Angular**
+* **Docker**
 * **UX/UI**
 
 #### 🔭 Alem de tudo isso tambem gosto bastante de:
