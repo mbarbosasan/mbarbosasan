@@ -10,9 +10,11 @@
 * **Git e GitHub/GitLab**
 * **JavaScript**
 * **Java**
+* **Angular e AngularJS**
 * **Spring**
 * **SASS**
 * **SQL**
+* **BootStrap/Bulma**
 
 #### 🌱 Estou estudando atualmente: 
 
