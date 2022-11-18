@@ -19,9 +19,7 @@
 #### 🌱 Estou estudando atualmente: 
 
 * **Banco de Dados**
-* **Java**
-*  **Angular**
-* **Docker**
+* **System Design**
 * **UX/UI**
 
 #### 🔭 Alem de tudo isso tambem gosto bastante de:
