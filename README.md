@@ -1,6 +1,6 @@
 ### Olá, meu nome é Moisés! 👋
 
-#### Tenho 22 anos e nasci e cresci na Terra do Sol (aka Fortaleza-CE) e atualmente eu sou Estagiario na IBM, alocado no Projeto Petrobras desenvolvimento e implementando novas features com Angular e sustentação da parte legada do código com AngularJS, Groovy/Grails, tenho aprofundado meus estados na area de Desenvolvimento Web e mais especificamente na área de FrontEnd através do Angular que é o meu objetivo de especialização, mas também tenho conhecimentos no BackEnd com Java e um pouco de Spring Boot.
+#### Tenho 22 anos e nasci e cresci na Terra do Sol (aka Fortaleza-CE) e atualmente eu sou Estagiario na IBM, alocado no Projeto Petrobras desenvolvendo e implementando novas features com Angular e realizando a sustentação da parte legada do código com AngularJS, Groovy/Grails, tenho aprofundado meus estados na area de Desenvolvimento Web e mais especificamente na área de FrontEnd através do Angular que é o meu objetivo de especialização, mas também tenho conhecimentos no BackEnd com Java e um pouco de Spring Boot.
 
 #### Além disso nas horas livres também mantenho uma Startup que fundei com 4 amigos da faculdade onde temos como objetivo resolver problemas do mundo real através da tecnologia, ficamos entre as 10 startups finalistas nos Corredores Digitais e estamos muito próximos de lançar o nosso MVP. :star_struck:	
 
