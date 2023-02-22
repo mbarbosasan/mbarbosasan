@@ -30,5 +30,6 @@
 * **Futebol <img src="https://vetores.org/d/ceara.svg" width="50">**
 
 #### Você pode me encontrar por aqui:
-<a href="https://www.linkedin.com/in/mbarbosasan/"></a>
+<a href="https://www.linkedin.com/in/mbarbosasan/">
 <img src="https://img.shields.io/badge/social-linkedin-blue?style=for-the-badge&logo=linkedin" href=>
+</a>
