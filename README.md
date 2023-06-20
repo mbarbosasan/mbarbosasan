@@ -1,6 +1,6 @@
 ### Olá, meu nome é Moisés! 👋
 
-#### Tenho 22 anos e nasci e cresci na Terra do Sol (aka Fortaleza-CE) e atualmente eu sou Dev Jr. na IBM, alocado no Projeto Petrobras desenvolvendo e implementando novas features com Angular e realizando a sustentação da parte legada do código com AngularJS, Groovy/Grails, tenho aprofundado meus estados na area de Desenvolvimento Web e mais especificamente na área de FrontEnd através do Angular que é o meu objetivo de especialização, mas também tenho conhecimentos no BackEnd com Java e um pouco de Spring Boot.
+Tenho 22 anos e nasci e cresci na Terra do Sol (aka Fortaleza-CE) e atualmente eu sou Dev Jr. na IBM, alocado no Projeto Petrobras desenvolvendo e implementando novas features com Angular e realizando a sustentação da parte legada do código com AngularJS, Groovy/Grails, tenho aprofundado meus estados na area de Desenvolvimento Web e mais especificamente na área de FrontEnd através do Angular que é o meu objetivo de especialização, mas também tenho conhecimentos no BackEnd com Java e um pouco de Spring Boot.
 
 #### :star:	 Essas são as tecnologias que mais tenho conhecimento atualmente:
 <section>
