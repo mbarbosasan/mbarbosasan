@@ -1,27 +1,50 @@
-### Olá, meu nome é Moisés! 👋
+<h1 align="center"> Moisés Santos </h1>
+    
+<div align="center">
+<b>FrontEnd Dev</b>
+<br>
+<br>
 
-Tenho 22 anos e nasci e cresci na Terra do Sol (aka Fortaleza-CE) e atualmente eu sou Dev Jr. na IBM, alocado no Projeto Petrobras desenvolvendo e implementando novas features com Angular e realizando a sustentação da parte legada do código com AngularJS, Groovy/Grails, tenho aprofundado meus estados na area de Desenvolvimento Web e mais especificamente na área de FrontEnd através do Angular que é o meu objetivo de especialização, mas também tenho conhecimentos no BackEnd com Java e um pouco de Spring Boot.
+<blockquote>
+    <p><i>
+     Infeliz torcedor do Ceará, entusiasta de novas tecnologias e acima de tudo curioso sobre o porquê das coisas existirem da forma que existem.
+    </i></p>
+</blockquote>
+</div>
 
-#### :star:	 Essas são as tecnologias que mais tenho conhecimento atualmente:
-<section>
-<img src="https://img.shields.io/badge/lang-javascript-yellow?style=flat&logo=javascript&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/lang-typescript-blue?style=flat&logo=typescript&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/code-html-red?style=flat&logo=html5&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/code-css-yellow?style=flat&logo=css3&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/util-sass-pink?style=flat&logo=sass&logoColor=white&color=sass">
-<img src="https://img.shields.io/badge/framework-angular-red?style=flat&logo=angular&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/framework-angularJS-red?style=flat&logo=angularjs&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/util-bulma-blue?style=flat&logo=bulma&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/lib-bootstrap-purple?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/lang-java-white?style=flat&logo=java&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/framework-springboot-yellow?style=flat&logo=springboot&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/util-figma-red?style=flat&logo=figma&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/test-jasmine-red?style=flat&logo=jasmine&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/test-junit-red?style=flat&logo=junit5&logoColor=white&color=2bbc8a">
- 
-</section>
+<details closed>
+<summary>Sobre mim 👈😊</summary>
 
-#### Você pode me encontrar por aqui:
-<a href="https://www.linkedin.com/in/mbarbosasan/">
-<img src="https://img.shields.io/badge/social-linkedin-blue?style=for-the-badge&logo=linkedin" href=>
-</a>
+---
+
+<div align="right" style="margin:auto">
+     <a href="https://github.com/mbarbosasan">
+        <img height='100%'
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbarbosasan&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=Minhas%20linguagens%20favoritas"
+             alt="Linguagens mais utilizadas"
+             align="right">
+    </a>
+</div>
+
+Opa, Eu sou o Moisés! :wave:😊
+
+Estou sempre praticando/lendo coisas novas, não apenas sobre tecnologia, mas também sobre filosofia e história especialmente, além disso também gosto bastante de escrever sobre experiências pessoais e pensamentos, tenho começado a escrever e expor em algum lugar através do [Dev.to]([url](https://dev.to/mbarbosasan/)) e você pode acompanhar por lá.
+
+No meu tempo livre gosto bastante de jogar, apesar de não ter mais tanto tempo assim, além de Distopias, é sempre um assunto que gosto de discutir.
+
+Atualmente eu tenho como minha especialidade no FrontEnd com JavaScript/Typescript e Angular, mas tenho conhecimentos que considero bastante sólidos no BackEnd com Java e Spring Boot, além disso também venho me aventurando recentemente com Microfrontends com SingleSPA e DevOps através da criação de containers com Docker.
+
+Estou trabalhando atualmente na IBM como Application Developer com especialidade em FrontEnd com Angular.
+
+</details>
+
+<br/>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbarbosasan/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mbarbosasan)
+
+</div>
