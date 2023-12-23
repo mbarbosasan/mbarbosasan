@@ -30,7 +30,7 @@ Opa, Eu sou o Moisés! :wave:😊
 
 Estou sempre praticando/lendo coisas novas, não apenas sobre tecnologia, mas também sobre filosofia e história especialmente, além disso também gosto bastante de escrever sobre experiências pessoais e pensamentos, tenho começado a escrever e expor meus aprendizados através do [Dev.to]([url](https://dev.to/mbarbosasan/)) e você pode acompanhar por lá, feedbacks são incentivados e encorajados.
 
-No meu tempo livre estou me estressando muito com o Alvinego de Porangabussu, gosto bastante de jogar ARPGs e RPGs, apesar de não ter mais tanto tempo assim, além de Distopias, é sempre um assunto que gosto de discutir.
+No meu tempo livre estou me estressando muito com o Alvinegro de Porangabussu, gosto bastante de jogar ARPGs e RPGs, apesar de não ter mais tanto tempo assim, além de Distopias, é sempre um assunto que gosto de discutir.
 
 Atualmente eu tenho como minha especialidade no FrontEnd com JavaScript/Typescript e Angular, mas tenho conhecimentos que considero bastante sólidos no BackEnd com Java e Spring Boot, além disso também venho me aventurando recentemente com Microfrontends com SingleSPA e DevOps através da criação de containers com Docker.
 
