@@ -7,7 +7,7 @@
 
 <blockquote>
     <p><i>
-     Infeliz torcedor do Ceará, entusiasta de novas tecnologias e acima de tudo curioso sobre o porquê das coisas existirem da forma que existem.
+     Infeliz torcedor do Ceará, startupeiro falido, entusiasta de novas tecnologias e acima de tudo curioso sobre o porquê das coisas existirem da forma que existem.
     </i></p>
 </blockquote>
 </div>
@@ -32,7 +32,7 @@ Estou sempre praticando/lendo coisas novas, não apenas sobre tecnologia, mas ta
 
 No meu tempo livre estou me estressando muito com o Alvinegro de Porangabussu, gosto bastante de jogar ARPGs e RPGs, apesar de não ter mais tanto tempo assim, além de Distopias, é sempre um assunto que gosto de discutir.
 
-Atualmente eu tenho como minha especialidade no FrontEnd com JavaScript/Typescript e Angular, mas tenho conhecimentos que considero bastante sólidos no BackEnd com Java e Spring Boot, além disso também venho me aventurando recentemente com Microfrontends com SingleSPA e DevOps através da criação de containers com Docker.
+Atualmente eu tenho como minha especialidade no FrontEnd com JavaScript/Typescript e Angular, mas tenho conhecimentos que considero bastante sólidos no BackEnd com Java e Spring Boot, além disso também venho me aventurando recentemente com Microfrontends com SingleSPA e DevOps através da criação de containers com Docker e deploy em ferramentas como Vercel, Fly.io.
 
 Estou trabalhando atualmente na IBM como Application Developer com especialidade em FrontEnd com Angular.
 
