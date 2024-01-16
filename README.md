@@ -36,6 +36,8 @@ Atualmente eu tenho como minha especialidade o FrontEnd com JavaScript/Typescrip
 
 Estou trabalhando atualmente na IBM como Application Developer com especialidade em FrontEnd com Angular.
 
+Por último mas não menos importante, eu utilizo o GitHub como um Storage, então são basicamentes POCs de algo que preciso implementar ou estou estudando então não espere nada muito organizado.
+
 </details>
 
 <br/>
