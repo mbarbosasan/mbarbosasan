@@ -13,7 +13,7 @@
 </div>
 <div align="center">
     <p><b>Stack Principal</b></p>
-    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,rxjs,tailwindcss,docker,kubernetes,nginx,aws," />
+    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,rxjs,tailwindcss,webpack,docker,kubernetes,nginx,aws" />
 </div>
 
 <div align="center">
