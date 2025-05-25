@@ -18,7 +18,7 @@
 
 <div align="center">
    <p>
-    <strike>Posso te enganar se você não souber 😈.</strike>
+    <strike>Posso te enganar se você não souber 😈</strike>
 </br>
     <b>Com um pouco de esforço posso atuar</b> </p>
    <img align="center" src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs"> 
