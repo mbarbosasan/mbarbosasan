@@ -1,7 +1,7 @@
 <h1 align="center"> Moisés Santos </h1>
     
 <div align="center">
-<b>FrontEnd Developer</b>
+<b>Desenvolvedor FrontEnd</b>
 <br>
 <br>
 
