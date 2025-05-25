@@ -11,8 +11,29 @@
     </i></p>
 </blockquote>
 </div>
+<div align="center">
+    <p><b>Stack Principal</b></p>
+    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,rxjs,tailwindcss,docker,kubernetes,nginx,aws," />
+</div>
+
+<div align="center">
+   <p>
+    <strike>Posso te enganar se você não souber 😈.</strike>
+</br>
+    <b>Com um pouco de esforço posso atuar</b> </p>
+   <img align="center" src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs"> 
+</div>
+<div align="center">
+    <p>
+        <b>Atualmente estou aprendendo ou buscando aprender.</b>
+    </p>
+        <img src="https://skillicons.dev/icons?i=react,expressjs,clojure" />
+</div>
 
 <details closed>
+
+
+
 <summary>Sobre mim 👈😊</summary>
 
 ---
