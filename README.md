@@ -27,7 +27,7 @@
     <p>
         <b>Atualmente estou aprendendo ou buscando aprender.</b>
     </p>
-        <img src="https://skillicons.dev/icons?i=react,expressjs,clojure" />
+        <img src="https://skillicons.dev/icons?i=react,expressjs,clojure,elixir" />
 </div>
 
 <details closed>
