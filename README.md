@@ -7,7 +7,7 @@
 
 <blockquote>
     <p><i>
-     Infeliz torcedor do Ceará, startupeiro wannabe, entusiasta de novas tecnologias e acima de tudo curioso sobre o porquê das coisas existirem da forma que existem.
+     Infeliz torcedor do Ceará, entusiasta de novas tecnologias e acima de tudo curioso sobre o porquê das coisas existirem da forma que existem.
     </i></p>
 </blockquote>
 </div>
